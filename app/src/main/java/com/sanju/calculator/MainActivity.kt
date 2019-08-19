@@ -62,7 +62,6 @@ class MainActivity : AppCompatActivity() {
                Log.d("Exception", "message :" + e.message)
             }
         }
-
         }
 
     fun appendOnExpression(string: String, canClear : Boolean){
